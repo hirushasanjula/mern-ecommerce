@@ -23,9 +23,12 @@
 
 ## 🖥️ Dekstop View
 
-<img src="/image1.png" alt="Alt text">
+<img src="/imag1.png" alt="Alt text">
 <img src="/image2.png" alt="Alt text">
 <img src="/image3.png" alt="Alt text">
+<img src="/image4.png" alt="Alt text">
+<img src="/image5.png" alt="Alt text">
+<img src="/image6.png" alt="Alt text">
 
 
 
