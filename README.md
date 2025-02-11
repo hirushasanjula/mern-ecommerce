@@ -23,12 +23,15 @@
 
 ## 🖥️ Dekstop View
 
-<img src="/imag1.png" alt="Alt text">
-<img src="/image2.png" alt="Alt text">
-<img src="/image3.png" alt="Alt text">
-<img src="/image4.png" alt="Alt text">
-<img src="/image5.png" alt="Alt text">
-<img src="/image6.png" alt="Alt text">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="/imag1.png" alt="Alt text" width="500px">
+  <img src="/image2.png" alt="Alt text" width="500px">
+  <img src="/image3.png" alt="Alt text" width="500px">
+  <img src="/image4.png" alt="Alt text" width="500px">
+  <img src="/image5.png" alt="Alt text" width="500px">
+  <img src="/image6.png" alt="Alt text" width="500px">
+</div>
+
 
 
 
