@@ -2,7 +2,7 @@
 
 <p><strong>This is a full-featured eCommerce website built using modern web technologies. The platform allows users to browse category add items to their cart, and complete purchases securely with Admin dashboard pannel</strong></p> <br>
 
-<img src="/image1.png" alt="Alt text">
+<img src="./image1.png" alt="image1" />
 
 
 ## 🚀 Features
