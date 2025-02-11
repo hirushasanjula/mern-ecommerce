@@ -2,7 +2,7 @@
 
 <p><strong>This is a full-featured eCommerce website built using modern web technologies. The platform allows users to browse category add items to their cart, and complete purchases securely with Admin dashboard pannel</strong></p> <br>
 
-<img src="./image1.png" alt="image1" />
+<img src="/imag1.png" alt="image1" />
 
 
 ## 🚀 Features
@@ -14,8 +14,8 @@
 - 📱 Responsive design for mobile and desktop
 
 ## 🛠 Technologies Used
-- FullStack: Next.js,  Tailwind CSS, TypeScript
-- Database: Neon
+- FullStack: Next.js,  Tailwind CSS, JavaScript
+- Database: MongoDb
 - Authentication: JWT
 - Payment Integration: Stripe
 
@@ -27,10 +27,7 @@
 <img src="/image2.png" alt="Alt text">
 <img src="/image3.png" alt="Alt text">
 
-##  📱  Mobile View
 
-<img src="/image4.png" alt="Alt text">
-<img src="/image5.png" alt="Alt text">
 
 
 ## Installation
