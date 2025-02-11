@@ -43,7 +43,7 @@
 1. Clone the repository:
    ```bash
    git clone (https://github.com/hirushasanjula/mern-ecommerce.git)
-   cd MagaMart
+   cd mern-ecommerce
    ```
 2. Install dependencies for both frontend and backend:
    ```bash
